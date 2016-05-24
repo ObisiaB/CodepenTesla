@@ -1,0 +1,77 @@
+.text-center {
+   color: gray;
+   font-family: 'Vintage';
+   /*font-size: 48px;*/
+  background-color:#c8d8d9;
+ }
+ 
+ #header {
+   border-color: #ff0000;
+   border-style: solid;
+   border-width: 0px;
+ }
+ 
+ #photo {
+   width: 100%;
+   border-color: #cc0000;
+   border-style: solid;
+   border-width: 0px;
+ }
+ 
+ #description {
+   width: 100%;
+   border-color: #dd0000;
+   border-style: solid;
+   border-width: 0px;
+ }
+ 
+ .teal {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+   border-color: #028482;
+   border-style: solid;
+   border-width: 10px;
+   border-radius: 10px;
+ }
+ 
+ .quote {
+   display:block;
+   margin-top:20px;
+   margin-left:auto;
+   margin-right:auto;
+   width: 600px;
+   background: #ddf;
+   padding: 10px;
+   font-size: 24px;
+   font-family: Vintage;
+ }
+.part1 {display:block;
+   margin-top:20px;
+   margin-left:auto;
+   margin-right:auto;
+   width: 600px;
+   background: #ddf;
+   padding: 10px;
+   font-size: 16px;
+   font-family: Vintage;}
+#inventions 
+{display:block;
+   margin-top:20px;
+   margin-left:auto;
+   margin-right:auto;
+   width: 600px;
+   background: #ddf;
+   padding: 10px;
+   font-size: 16px;
+   font-family: Vintage;}
+#conclusion
+{display:block;
+   margin-top:20px;
+   margin-left:auto;
+   margin-right:auto;
+   width: 600px;
+   background: #ddf;
+   padding: 10px;
+   font-size: 16px;
+   font-family: Vintage;}
